@@ -1,0 +1,12 @@
+def max_problems_solved(N, P):
+    # Total available time for solving problems (240 minutes minus travel time)
+    remaining_time = 240 - P
+    
+    # Initialize counters for time and problems solved
+    time_spent = 0
+    count = 0
+    return count
+N=int(input())
+P=int(input())
+result=max_problems_solved(N,P)
+print(result
